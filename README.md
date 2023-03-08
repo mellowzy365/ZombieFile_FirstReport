@@ -21,4 +21,4 @@ Press M on keyboard to open menu
 NB : BETA version maybe many bug :)
 
 
-Link Download Mod : https://youtu.be/7dpCsN1ArMc
+Gameplay : https://youtu.be/7dpCsN1ArMc
