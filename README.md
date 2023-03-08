@@ -5,6 +5,7 @@ Beta Version CS1.6 Mode ported from CSO
 Counter Strike 1.6 Standalone Scenario (CSO Zombie Files : First Report)
 
 Script : Mellowzy
+
 Map convert : ZomboidArena
 
 Requirement AMXMODX ver1.8.3 or higher
